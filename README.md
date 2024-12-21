@@ -52,6 +52,10 @@
   <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=catpkocg&show_icons=true&theme=radical)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={catpkocg})](https://solved.ac/{catpkocg})
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=catpkocg)](https://solved.ac/catpkocg/)
 <br/>
 
